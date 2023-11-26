@@ -10,7 +10,7 @@
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/igor moura](https://www.linkedin.com/in/igor-moura-a412a9175/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor moura" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igor-moura-a412a9175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor moura" height="30" width="40" /></a>
 <a href="https://instagram.com/higvshx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@higvshx" height="30" width="40" /></a>
 </p>
 
