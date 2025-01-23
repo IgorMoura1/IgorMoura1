@@ -39,6 +39,7 @@
 <div align="center">
 <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorMoura1&theme=darcula&hide_border=true"/>
 <img alt="streak" src="https://streak-stats.demolab.com/?user=IgorMoura1&theme=dark)"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igormoura1&theme=dark" alt="igormoura1" /></p>
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=IgorMoura1&theme=darcula&show_icons=true&hide_border=true&count_private=true"/>
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMoura1&theme=darcula&show_icons=true&hide_border=true&layout=compact"/>
 </div>
