@@ -60,6 +60,6 @@
 
 ###
 
-<p align="left">- I'm learning right now:<br>● Design Patterns<br>● Next.JS<br>● Kafka<br>● Microservices Architecture<br><br>Also I'm an language enthusiast and I am learning German</p>
+<p align="left">- I'm learning right now:<br>Also I'm an language enthusiast and I am learning German</p>
 
 ###
